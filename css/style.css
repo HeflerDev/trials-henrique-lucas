@@ -16,3 +16,33 @@ h2{
 #image{
   border: solid 5px white;
 }
+#img-div{
+        background-color: cornFlowerBlue ;
+        padding: 20px;
+        border-radius: 10px;
+}
+#img-div figcaption {
+    font-style: italic ;
+    text-align: center;
+    margin-top: 2px;
+}
+#img-div p {
+    background-color: powderBlue;
+    border-radius: 3px;
+    text-align: center;
+}
+#link-div{
+    margin-top: 10px;
+    max-width: 25%;
+    text-align: center;
+    border: dashed orange 2px;
+}
+#link-div p{
+    font-size: 24px ;
+    margin-top:1px;
+    margin-bottom: 1px;
+}
+
+#link-div a{
+    margin-top: 1px;
+}
