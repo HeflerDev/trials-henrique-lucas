@@ -1,5 +1,5 @@
 #image {
     display: block ;
     max-width: 25%;
-    align: center;
+    margin: auto;
 }
