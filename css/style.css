@@ -1,12 +1,18 @@
 body{
   background-color: #AED9DA;
 }
-#image {
+.img-class {
     display: block ;
     max-width: 25%;
     margin: auto;
 }
 h2{
   font-family: Helvetica;
-  align: center;
+  text-align: center;
+}
+#main{
+  font-family: Helvetica;
+}
+#image{
+  border: solid 5px white;
 }
