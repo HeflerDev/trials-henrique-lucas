@@ -1,5 +1,12 @@
+body{
+  background-color: #AED9DA;
+}
 #image {
     display: block ;
     max-width: 25%;
     margin: auto;
+}
+h2{
+  font-family: Helvetica;
+  align: center;
 }
